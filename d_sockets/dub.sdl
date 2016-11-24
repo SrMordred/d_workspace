@@ -1,0 +1,5 @@
+name "d_sockets"
+description "D Sockets examples"
+authors "Patric Dexheimer"
+copyright "Copyright © 2016, this_"
+license "proprietary"
